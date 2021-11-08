@@ -1,6 +1,6 @@
 # Hola, gentes! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Mis aportes y una culebra hambrienta
+<!-- ### Mis aportes y una culebra hambrienta
 
 <div align="center">
 
@@ -8,4 +8,4 @@
 
 </div>
 
-![snake gif](https://github.com/whatiskeptiname/whatiskeptiname/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/whatiskeptiname/whatiskeptiname/blob/output/github-contribution-grid-snake.svg) -->
