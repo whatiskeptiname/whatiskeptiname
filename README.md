@@ -1,6 +1,5 @@
-# Hola, gentes! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Mis aportes y una culebra hambrienta
 
 <div align="center">
 
